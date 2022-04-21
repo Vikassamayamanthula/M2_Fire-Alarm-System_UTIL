@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author Manikanta Gurram (you@domain.com)
+ * @author samayamanthula vikas (you@domain.com)
  * @brief 
  * @version 0.1
  * @date 2022-03-08
