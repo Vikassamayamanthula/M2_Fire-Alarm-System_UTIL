@@ -4,3 +4,5 @@
 
 
 ##[![CPP](https://github.com/Vikassamayamanthula/M2_Fire-Alarm-System_UTIL/actions/workflows/CPP.yml/badge.svg)](https://github.com/Vikassamayamanthula/M2_Fire-Alarm-System_UTIL/actions/workflows/CPP.yml)
+
+##[![Git-Inspector](https://github.com/Vikassamayamanthula/M2_Fire-Alarm-System_UTIL/actions/workflows/Git-Inspector.yml/badge.svg)](https://github.com/Vikassamayamanthula/M2_Fire-Alarm-System_UTIL/actions/workflows/Git-Inspector.yml)
